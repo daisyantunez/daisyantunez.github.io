@@ -3,7 +3,7 @@ This is my home page! My name is Daisy Antunez and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is https://daisyantunez.github.io/
+My GitHub page is [daisyantunez](https://daisyantunez.github.io/)
 
 ### CPSC 120
 
