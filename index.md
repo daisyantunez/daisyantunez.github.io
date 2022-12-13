@@ -18,4 +18,3 @@ My GitHub page is https://daisyantunez.github.io/
 * Lab 9
 
     Lab 09 part 1 was one of the more difficult labs to complete, but it allowed me to learn from my mistakes and go over past terms. I liked that it was themed on Olympic figure skating judging (finding the average in this case). For this lab, the inputs had to be three different numbers to receive an average. The statements used were double, for, if, and so on.
-
